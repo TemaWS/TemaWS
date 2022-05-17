@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Artem (@TemaWS), from Belarus
+- 👋 Hi, I’m Artem (@TemaWS), from Minsk - Belarus
 - 👀 I’m interested in programming 
 - 🌱 I started learning java programming language
 - 💞️ I am looking for an opportunity to learn programming and connect my life with it
