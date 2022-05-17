@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I started learning java programming language
 - 💞️ I am looking for an opportunity to learn programming and connect my life with it
-- 📫 How to reach me: tema409@mail.ru or +375297713666
+- 📫 How to reach me: tema409@mail.ru
 
 <!---
 TemaWS/TemaWS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
